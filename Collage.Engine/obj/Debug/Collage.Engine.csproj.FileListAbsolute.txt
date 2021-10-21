@@ -1,0 +1,6 @@
+C:\Users\Admin\Downloads\Collage-master\Collage.Engine\bin\Debug\Collage.Engine.dll
+C:\Users\Admin\Downloads\Collage-master\Collage.Engine\bin\Debug\Collage.Engine.pdb
+C:\Users\Admin\Downloads\Collage-master\Collage.Engine\obj\Debug\Collage.Engine.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Collage-master\Collage.Engine\obj\Debug\Collage.Engine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Collage-master\Collage.Engine\obj\Debug\Collage.Engine.dll
+C:\Users\Admin\Downloads\Collage-master\Collage.Engine\obj\Debug\Collage.Engine.pdb
